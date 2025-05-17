@@ -18,7 +18,7 @@ Este projeto de extensão foi desenvolvido com o objetivo de ensinar lógica de 
 
 ```scratch
 when green flag clicked
-    say "Welcome to the project!" for 3 seconds
+    say "Bem-vindo ao projeto!" for 3 seconds
     repeat 10
         change x by 10
         next costume
