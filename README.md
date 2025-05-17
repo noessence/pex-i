@@ -1,27 +1,43 @@
-# Jogos Educacionais com Scratch para Crianças com TDAH/TEA
+# Jogos Educacionais com Scratch para Crianças Neurodivergentes
 
-Projeto educacional desenvolvido para ensinar lógica de programação a crianças neurodivergentes, utilizando o Scratch como ferramenta visual acessível e lúdica. Desenvolvido como parte da formação em Ciência da Computação.
+Este projeto de extensão foi desenvolvido com o objetivo de ensinar lógica de programação básica para crianças neurodivergentes (TDAH e TEA), utilizando o Scratch como ferramenta visual acessível e lúdica.
 
 ## Objetivos
-- Introduzir conceitos básicos de programação.
-- Trabalhar foco, memória e criatividade em crianças com TDAH e TEA.
-- Explorar o potencial inclusivo da tecnologia na educação.
+
+- Introduzir conceitos de repetição e movimento com blocos visuais.
+- Estimular foco, memória e compreensão lógica em crianças de 8 a 12 anos.
+- Promover acessibilidade digital por meio da programação educativa.
 
 ## Ferramentas Utilizadas
+
 - Scratch (https://scratch.mit.edu)
+- Blocos de código visuais
+- Recurso de animação e fala com sprites
 
-## Estrutura das Oficinas
-- Público-alvo: Crianças entre 8 e 12 anos com TDAH/TEA
-- Formato: Oficinas semanais com atividades práticas guiadas
-- Produto final: Jogos interativos com blocos visuais
+## Código do Projeto (blocos)
 
-## Exemplo de código em Scratch
+```scratch
+when green flag clicked
+    say "Welcome to the project!" for 3 seconds
+    repeat 10
+        change x by 10
+        next costume
+        wait 0.2 seconds
+```
 
-quando bandeira verde clicada  
-diga [Bem-vindo ao projeto!] por (3) segundos  
-mude x por (10)
+## Arquivo .sb3
+
+O projeto completo pode ser carregado no Scratch pelo menu:
+
+https://scratch.mit.edu/projects/1176814116
+
+Link para download do projeto:  
+[scratch_project.sb3](./scratch_project.sb3)
 
 ## Autoria
+
 Gabriela Gadelha  
+RA: 2241368  
 Ciência da Computação – UniAmérica  
-Polo Recife/PE
+Polo Recife/PE  
+Projeto de Extensão I
